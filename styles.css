@@ -1,6 +1,12 @@
 body {
-    background-color: olivedrab;
+    background: linear-gradient(-45deg, #ee7752, #e73ce7, #23a6d5)
 }
-h1 {background-color: blueviolet;
-
+h1 {
+    color: azure;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h5 {
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
